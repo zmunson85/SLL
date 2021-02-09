@@ -1,0 +1,13 @@
+C:\Users\Owner\OneDrive\Desktop\Dojo_Assignments\csharp\dataStructures\singlyLinkedList\bin\Debug\netcoreapp3.1\singlyLinkedList.exe
+C:\Users\Owner\OneDrive\Desktop\Dojo_Assignments\csharp\dataStructures\singlyLinkedList\bin\Debug\netcoreapp3.1\singlyLinkedList.deps.json
+C:\Users\Owner\OneDrive\Desktop\Dojo_Assignments\csharp\dataStructures\singlyLinkedList\bin\Debug\netcoreapp3.1\singlyLinkedList.runtimeconfig.json
+C:\Users\Owner\OneDrive\Desktop\Dojo_Assignments\csharp\dataStructures\singlyLinkedList\bin\Debug\netcoreapp3.1\singlyLinkedList.runtimeconfig.dev.json
+C:\Users\Owner\OneDrive\Desktop\Dojo_Assignments\csharp\dataStructures\singlyLinkedList\bin\Debug\netcoreapp3.1\singlyLinkedList.dll
+C:\Users\Owner\OneDrive\Desktop\Dojo_Assignments\csharp\dataStructures\singlyLinkedList\bin\Debug\netcoreapp3.1\singlyLinkedList.pdb
+C:\Users\Owner\OneDrive\Desktop\Dojo_Assignments\csharp\dataStructures\singlyLinkedList\obj\Debug\netcoreapp3.1\singlyLinkedList.csprojAssemblyReference.cache
+C:\Users\Owner\OneDrive\Desktop\Dojo_Assignments\csharp\dataStructures\singlyLinkedList\obj\Debug\netcoreapp3.1\singlyLinkedList.AssemblyInfoInputs.cache
+C:\Users\Owner\OneDrive\Desktop\Dojo_Assignments\csharp\dataStructures\singlyLinkedList\obj\Debug\netcoreapp3.1\singlyLinkedList.AssemblyInfo.cs
+C:\Users\Owner\OneDrive\Desktop\Dojo_Assignments\csharp\dataStructures\singlyLinkedList\obj\Debug\netcoreapp3.1\singlyLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\Owner\OneDrive\Desktop\Dojo_Assignments\csharp\dataStructures\singlyLinkedList\obj\Debug\netcoreapp3.1\singlyLinkedList.dll
+C:\Users\Owner\OneDrive\Desktop\Dojo_Assignments\csharp\dataStructures\singlyLinkedList\obj\Debug\netcoreapp3.1\singlyLinkedList.pdb
+C:\Users\Owner\OneDrive\Desktop\Dojo_Assignments\csharp\dataStructures\singlyLinkedList\obj\Debug\netcoreapp3.1\singlyLinkedList.genruntimeconfig.cache
